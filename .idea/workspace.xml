@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a371133-32be-434b-a141-191d126f4e29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1t9AWsaQvFDJ5JoMGWt83iTvDDv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a371133-32be-434b-a141-191d126f4e29" name="Default Changelist" comment="" />
+      <created>1622170965329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622170965329</updated>
+      <workItem from="1622170968057" duration="1729000" />
+      <workItem from="1622174212495" duration="1438000" />
+      <workItem from="1622175675085" duration="386000" />
+      <workItem from="1622176075058" duration="1975000" />
+      <workItem from="1622218601292" duration="1127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Deployment" timestamp="1622171047832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1622171047832" />
+    <state x="237" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622171142670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="237" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622171142670" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1622171051345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1622171051345" />
+    <state x="629" y="198" width="416" height="505" key="EnvironmentVariablesDialog" timestamp="1622175052328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="629" y="198" width="416" height="505" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1622175052328" />
+    <state x="1213" y="451" key="SettingsEditor" timestamp="1622219674443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="495" y="11" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622176985632" />
+    <state x="1213" y="451" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1622219674443" />
+    <state x="564" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622171005560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1622171005560" />
+    <state x="1302" y="695" width="1120" height="865" key="search.everywhere.popup" timestamp="1622219418780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="685" y="167" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622177066814" />
+    <state x="1302" y="695" width="1120" height="865" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1622219418780" />
+  </component>
+</project>
